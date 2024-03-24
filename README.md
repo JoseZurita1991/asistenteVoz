@@ -6,6 +6,13 @@ Para ello recoge el audio del micrófono del usuario y lo transforma en texto qu
 
 Para cerrar el asistente podemos usar el comando de voz "Adiós".
 
+### Instalación:
+
+1. Clona o descarga el repositorio.
+2. Instala las depencias usando `pip install -r requirements.txt`
+
+---
+
 >Usa las librerías:
 >- pyttsx3
 >- SpeechRecognition
