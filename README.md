@@ -9,7 +9,8 @@ Para cerrar el asistente podemos usar el comando de voz "Adiós".
 ### Instalación:
 
 1. Clona o descarga el repositorio.
-2. Instala las depencias usando `pip install -r requirements.txt`
+2. Instala las depencias usando `pip install -r requirements.txt`.
+3. Ejecuta `python asistente_virtual.py`.
 
 ---
 
